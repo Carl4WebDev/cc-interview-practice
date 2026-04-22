@@ -1783,7 +1783,7 @@ Choose between a <strong>General Mixed Assessment</strong> and a separate
           <footer className="footer">
             <div>© {new Date().getFullYear()} Call Center Assessment Practice</div>
             <a
-              href="https://github.com/carl4dev"
+              href="https://github.com/Carl4WebDev"
               target="_blank"
               rel="noopener noreferrer"
               className="footer-link"
