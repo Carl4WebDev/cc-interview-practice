@@ -1790,6 +1790,14 @@ Choose between a <strong>General Mixed Assessment</strong> and a separate
             >
               carl4dev
             </a>
+            <a
+              href="https://carl4dev-ccat-practice.netlify.app/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="footer-link"
+            >
+              Prepare for CCAT style Assessment.
+            </a>
             <div className="footer-note">
               This is an independent practice tool and is not affiliated with
               any official hiring platform or testing provider.
